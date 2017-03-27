@@ -1,0 +1,6 @@
+c:\users\pau\documents\visual studio 2015\Projects\Matrix\Matrix\bin\Debug\Matrix.exe.config
+c:\users\pau\documents\visual studio 2015\Projects\Matrix\Matrix\obj\Debug\Matrix.csprojResolveAssemblyReference.cache
+c:\users\pau\documents\visual studio 2015\Projects\Matrix\Matrix\bin\Debug\Matrix.exe
+c:\users\pau\documents\visual studio 2015\Projects\Matrix\Matrix\bin\Debug\Matrix.pdb
+c:\users\pau\documents\visual studio 2015\Projects\Matrix\Matrix\obj\Debug\Matrix.exe
+c:\users\pau\documents\visual studio 2015\Projects\Matrix\Matrix\obj\Debug\Matrix.pdb
